@@ -27,7 +27,7 @@ linkedin_url: https://linkedin.com/in/tomas-holderness-18106047
 # wordpress blog
 
 # Address information
-address_street: Urban Risk Lab, Massachusetts Institute of Technology
+address_street: <a href="http://www.urbanrisklab.org/">Urban Risk Lab</a><BR>Massachusetts Institute of Technology
 address_city: Cambridge
 address_state: MA
 address_zip: 02139
