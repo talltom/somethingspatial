@@ -10,7 +10,7 @@
 .navbar-custom .navbar-right {
   font-family: 'Open Sans Condensed';
   font-weight: 700;
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 .navbar-custom a:focus {
   outline: none;
@@ -62,13 +62,13 @@
 }
 @media (min-width: 768px) {
   .navbar-custom {
-    padding: 25px 0;
+    padding: 20px 0;
     -webkit-transition: padding 0.3s;
     -moz-transition: padding 0.3s;
     transition: padding 0.3s;
   }
   .navbar-custom .navbar-brand {
-    font-size: 3em;
+    font-size: 2.1em;
     -webkit-transition: all 0.3s;
     -moz-transition: all 0.3s;
     transition: all 0.3s;
