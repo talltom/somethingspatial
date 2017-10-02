@@ -1,0 +1,11 @@
+<!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-left">
+                    {% capture about %}{% include _about/content.md %}{% endcapture %}
+                    {{ about | markdownify }}
+                </div>
+            </div>
+        </div>
+    </section>
