@@ -1,0 +1,20 @@
+<!-- Policy Documents Section -->
+<section id="media">
+  <div class="container">
+    <div class="row">
+        <div class="col-lg-6 col-lg-offset-0">
+          {% capture talks %}{% include _speaking/content.md %}{% endcapture %}
+          {{ talks | markdownify }}
+          <!--
+          {% assign stories = media | newline_to_br | split:'<br />' %}
+          {{ stories[0] || markdownify }}
+          {% for story in stories %}
+            {% if story contains '2016' %}
+            {{ story || markdownify }}
+            {% endif %}
+          {% endfor %}
+        -->
+        </div>
+      </div>
+    </div>
+</section>
