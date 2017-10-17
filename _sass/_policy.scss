@@ -1,17 +1,18 @@
 // policy
 
-#policy {
-  margin-bottom: 0;
-  padding-bottom: 0;
-  padding-top: 20px;
+iframe {
+  margin:0;
 }
 
+
 #policy h1 {
+  margin-bottom:0; // This is a hack as the tweet iframe adds 10px margin
   padding-bottom:20px;
 }
 
 #policy p {
   font-size: 15px;
+  margin-top: 10px; // See above comment
   padding-bottom: 10px;
 }
 

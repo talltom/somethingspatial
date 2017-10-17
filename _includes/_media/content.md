@@ -1,4 +1,3 @@
-# Media
 The Verge: ["MIT is using social media to map flooding from Hurricane Irma in real time"](https://www.theverge.com/2017/9/9/16280250/mit-urban-risk-lab-riskmap-hurricane-irma-real-time-crowdsource-flood-reporting) (2017).
 
 National Geographic: ["Jakarta: A City on the Edge of a Social Media Revolution"](http://voices.nationalgeographic.org/2016/02/10/jakarta-a-city-on-the-edge-of-a-social-media-revolution/#.Vr0cYjQsXG0.twitter) (2016).

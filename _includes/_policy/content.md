@@ -1,5 +1,3 @@
-# Policy
-
 Open Data Institute: ["PetaJakarta: real-time flood mapping in Jakarta wins Showcase Award"](https://theodi.org/news/odi-showcase-2016-peta-jakarta){:target="_blank"} (2016).
 
 Federal Communications Commission: ["Rules Regarding the Emergency Alert System and Wireless Emergency Alerts"](https://www.federalregister.gov/d/2016-05275/p-124){:target="_blank"} (2016).
