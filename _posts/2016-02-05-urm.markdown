@@ -3,11 +3,13 @@ layout: post
 title:  "Urban Risk Map"
 date:   2016-02-05 15:08:10 -0500
 img: img/portfolio/map.png
-modalID: modalCake
-category: Design
+modalID: modalURM
 ---
-Use this area of the page to describe your project. The icon above is part of a free icon set by [Flat Icons][flat-icons-link]. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+Urban Risk Map uses social messaging platforms, including Twitter and Facebook to collect and coordinate hazard information from residents and disaster response agencies during flood and storm events. The platform is unique because it is real time, helping both residents and government make informed decisions during emergencies. Urban Risk Map is powered by the free and open source software [CogniCity](https://github.com/urbanriskmap).
 
-In the Jekyll version of Freelancer, each portfolio item is a separate post that you can edit using markdown!
+<iframe src="https://player.vimeo.com/video/215665435" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-[flat-icons-link]: https://sellfy.com/p/8Q9P/jV3VZ/
+
+Urban Risk Map is currently operational in Jakarta, Bandung, Semarang (Indonesia), Chennai (India) and Broward County (Florida).
+<BR><BR>
+[http://urbanriskmap.org/](http://urbanriskmap.org/)
