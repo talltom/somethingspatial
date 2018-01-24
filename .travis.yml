@@ -1,5 +1,5 @@
 language: ruby
 rvm:
   - 2.4
-install: gem jekyll
+install: gem install jekyll
 script: jekyll build
